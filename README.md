@@ -1,1 +1,2 @@
-# imdb
+# BeautifulSoup ile IMDb Veri Kazıma
+BeautifulSoup, Python'da web scraping işlemleri için kullanılan güçlü bir kütüphanedir ve IMDb gibi web sitelerinden veri kazımak için ideal bir araçtır. BeautifulSoup, HTML veya XML belgelerini analiz eder ve içerdikleri verilere erişmek için kolay ve esnek bir yol sağlar. IMDb veri kazıma işlemi için BeautifulSoup kullanarak, film başlıkları, yönetmenler, oyuncular, derecelendirme ve yayın yılı gibi bilgileri çekmek mümkündür.
